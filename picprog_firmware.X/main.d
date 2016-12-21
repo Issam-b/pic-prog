@@ -1,0 +1,1 @@
+ main.d  main.p1:  main.c usbcfg.h io_cfg.h usbdefs_std_dsc.h main.h usbdefs_ep0_buff.h usb.h usb9.h upp.h usbdsc.h usbgen.h usbdrv.h usb_compile_time_validation.h typedefs.h usbctrltrf.h interrupt.h usbmmap.h
